@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgrey;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    background-color: darkgray;
+    font-family: serif;
+    text-align: center;
+    text-transform: lowercase;
+    padding: 10px;
+    color: black;
+}
+
+li {
+    font-style: italic;
+    display: inline;
+    letter-spacing: 4px;
+}
+
+.video {
+    padding: 100px;
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/098/402/small_2x/dark-floral-pattern-background-vector.jpg");
+}
+h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 20px;
+}
+
+img {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    padding: 20px;
+    background-image: url("https://media.istockphoto.com/vectors/hand-drawn-gray-contours-of-abstract-flowers-and-leaves-on-white-vector-id1153150274?b=1&k=6&m=1153150274&s=612x612&w=0&h=H91z3LJf9sKF8giStDLmszb_EMp2quZlOJRHNkn65SU=");
+}
+.p1 {
+    float: left;
+    padding-top: 50px;
+    padding-right: 200px;
+    padding-left: 100px;
+    background-color: darkgray;
+}
+
+.p2 {
+    float: right;
+    background-color: lightcoral;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 260px;
+}
+
+
+    
